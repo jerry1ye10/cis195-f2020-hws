@@ -1,3 +1,6 @@
 [submodule "195-repo"]
 	path = 195-repo
 	url = https://github.com/jerry1ye10/cis-195-f20.git
+[submodule "Calvin_Hu"]
+	path = Calvin_Hu
+	url = https://github.com/CalvinHu73/CIS195-Calvin-Hu.git
