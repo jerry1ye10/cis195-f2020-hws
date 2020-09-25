@@ -4,3 +4,6 @@
 [submodule "Calvin_Hu"]
 	path = Calvin_Hu
 	url = https://github.com/CalvinHu73/CIS195-Calvin-Hu.git
+[submodule "jerry-submodule-test"]
+	path = jerry-submodule-test
+	url = https://github.com/jerry1ye10/submodule-demo195.git
