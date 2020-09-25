@@ -19,3 +19,6 @@
 [submodule "allison_submodule"]
 	path = allison_submodule
 	url = https://github.com/alzhang99/CIS195.git
+[submodule "Allison_Zhang"]
+	path = Allison_Zhang
+	url = https://github.com/alzhang99/CIS195.git
