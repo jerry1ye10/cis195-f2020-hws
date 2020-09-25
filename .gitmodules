@@ -7,3 +7,6 @@
 [submodule "jerry-submodule-test"]
 	path = jerry-submodule-test
 	url = https://github.com/jerry1ye10/submodule-demo195.git
+[submodule "CIS-195-Work"]
+	path = CIS-195-Work
+	url = https://github.com/adarshr10/CIS-195-Work.git
