@@ -13,3 +13,6 @@
 [submodule "Adarsh_Rao"]
 	path = Adarsh_Rao
 	url = https://github.com/adarshr10/CIS-195-Work.git
+[submodule "cathy_chen"]
+	path = cathy_chen
+	url = https://github.com/cccyyyr/CIS195.git
