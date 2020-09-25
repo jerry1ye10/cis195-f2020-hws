@@ -16,3 +16,6 @@
 [submodule "cathy_chen"]
 	path = cathy_chen
 	url = https://github.com/cccyyyr/CIS195.git
+[submodule "allison_submodule"]
+	path = allison_submodule
+	url = https://github.com/alzhang99/CIS195.git
