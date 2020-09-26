@@ -28,3 +28,6 @@
 [submodule "cis-195"]
 	path = cis-195
 	url = https://github.com/lindseyyu/cis-195
+[submodule "Lindsey_Yu"]
+	path = Lindsey_Yu
+	url = https://github.com/lindseyyu/cis-195
