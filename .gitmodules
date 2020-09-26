@@ -25,3 +25,6 @@
 [submodule "Elias_Cham"]
 	path = Elias_Cham
 	url = https://github.com/eliascham/195HW.git
+[submodule "cis-195"]
+	path = cis-195
+	url = https://github.com/lindseyyu/cis-195
