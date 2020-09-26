@@ -22,3 +22,6 @@
 [submodule "Cathy_Chen"]
 	path = Cathy_Chen
 	url = https://github.com/cccyyyr/CIS195.git
+[submodule "Elias_Cham"]
+	path = Elias_Cham
+	url = https://github.com/eliascham/195HW.git
