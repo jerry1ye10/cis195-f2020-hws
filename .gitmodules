@@ -34,3 +34,6 @@
 [submodule "CIS-195-JIMMY-REN"]
 	path = CIS-195-JIMMY-REN
 	url = https://github.com/jimmyren23/CIS-195-JIMMY-REN
+[submodule "cis195-f2020-hws"]
+	path = cis195-f2020-hws
+	url = https://github.com/jerry1ye10/cis195-f2020-hws.git
