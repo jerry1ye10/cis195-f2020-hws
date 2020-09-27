@@ -55,3 +55,6 @@
 [submodule "Chanmin_Park"]
 	path = Chanmin_Park
 	url = https://github.com/davidchanminpark/CIS-195.git
+[submodule "Vanessa_Barnard"]
+	path = Vanessa_Barnard
+	url = https://github.com/vbarnard/cis195HW.git
