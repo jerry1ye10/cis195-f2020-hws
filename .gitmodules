@@ -40,8 +40,11 @@
 [submodule "CIS195Drew_Shaulson"]
 	path = CIS195Drew_Shaulson
 	url = https://github.com/dshauls/CIS195Drew_Shaulson.git
-[submodule "Krish_Bhavnani"]
-	path = Krish_Bhavnani
+[submodule "Krish-Bhavnani"]
+	path = Krish-Bhavnani
+	url = https://github.com/kbhav77/CIS-195.git
+[submodule "Arushi_Aggarwal"]
+	path = Arushi_Aggarwal
 	url = https://github.com/jerry1ye10/cis195-f2020-hws.git
 [submodule "Sara_Reddy_HW"]
 	path = Sara_Reddy_HW
