@@ -43,3 +43,6 @@
 [submodule "Krish-Bhavnani"]
 	path = Krish-Bhavnani
 	url = https://github.com/kbhav77/CIS-195.git
+[submodule "Arushi_Aggarwal"]
+	path = Arushi_Aggarwal
+	url = https://github.com/jerry1ye10/cis195-f2020-hws.git
