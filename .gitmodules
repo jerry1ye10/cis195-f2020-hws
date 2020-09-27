@@ -52,3 +52,6 @@
 [submodule "Arushi_Aggarwal_1"]
 	path = Arushi_Aggarwal_1
 	url = https://github.com/arushiag1/CIS-195-iOS-dev.git
+[submodule "Chanmin_Park"]
+	path = Chanmin_Park
+	url = https://github.com/davidchanminpark/CIS-195.git
