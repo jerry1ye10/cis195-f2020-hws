@@ -10,3 +10,51 @@
 [submodule "CIS-195-Work"]
 	path = CIS-195-Work
 	url = https://github.com/adarshr10/CIS-195-Work.git
+[submodule "Adarsh_Rao"]
+	path = Adarsh_Rao
+	url = https://github.com/adarshr10/CIS-195-Work.git
+[submodule "Allison_Zhang"]
+	path = Allison_Zhang
+	url = https://github.com/alzhang99/CIS195.git
+[submodule "Charles_Rockhead"]
+	path = Charles_Rockhead
+	url = https://github.com/charlesrockhead/CIS-195-Projects
+[submodule "Cathy_Chen"]
+	path = Cathy_Chen
+	url = https://github.com/cccyyyr/CIS195.git
+[submodule "Elias_Cham"]
+	path = Elias_Cham
+	url = https://github.com/eliascham/195HW.git
+[submodule "cis-195"]
+	path = cis-195
+	url = https://github.com/lindseyyu/cis-195
+[submodule "Lindsey_Yu"]
+	path = Lindsey_Yu
+	url = https://github.com/lindseyyu/cis-195
+[submodule "CIS-195-JIMMY-REN"]
+	path = CIS-195-JIMMY-REN
+	url = https://github.com/jimmyren23/CIS-195-JIMMY-REN
+[submodule "cis195-f2020-hws"]
+	path = cis195-f2020-hws
+	url = https://github.com/jerry1ye10/cis195-f2020-hws.git
+[submodule "CIS195Drew_Shaulson"]
+	path = CIS195Drew_Shaulson
+	url = https://github.com/dshauls/CIS195Drew_Shaulson.git
+[submodule "Krish-Bhavnani"]
+	path = Krish-Bhavnani
+	url = https://github.com/kbhav77/CIS-195.git
+[submodule "Arushi_Aggarwal"]
+	path = Arushi_Aggarwal
+	url = https://github.com/jerry1ye10/cis195-f2020-hws.git
+[submodule "Sara_Reddy_HW"]
+	path = Sara_Reddy_HW
+	url = https://github.com/reddysar/CIS195_HW.git
+[submodule "Arushi_Aggarwal_1"]
+	path = Arushi_Aggarwal_1
+	url = https://github.com/arushiag1/CIS-195-iOS-dev.git
+[submodule "Chanmin_Park"]
+	path = Chanmin_Park
+	url = https://github.com/davidchanminpark/CIS-195.git
+[submodule "Vanessa_Barnard"]
+	path = Vanessa_Barnard
+	url = https://github.com/vbarnard/cis195HW.git
