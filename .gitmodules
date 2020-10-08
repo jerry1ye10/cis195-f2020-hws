@@ -58,3 +58,6 @@
 [submodule "Vanessa_Barnard"]
 	path = Vanessa_Barnard
 	url = https://github.com/vbarnard/cis195HW.git
+[submodule "EliasHW"]
+	path = EliasHW
+	url = https://github.com/eliascham/195HW.git
