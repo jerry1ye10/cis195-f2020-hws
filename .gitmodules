@@ -61,3 +61,6 @@
 [submodule "EliasHW"]
 	path = EliasHW
 	url = https://github.com/eliascham/195HW.git
+[submodule "AllisonZhang"]
+	path = AllisonZhang
+	url = https://github.com/alzhang99/CIS195.git
